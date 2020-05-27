@@ -1,5 +1,5 @@
 # Employee-Tracker
-#This app alowes you to:
+#This app allows you to:
 Build a command-line application that at a minimum allows the user to:
 
   * Add departments, roles, employees
@@ -7,7 +7,7 @@ Build a command-line application that at a minimum allows the user to:
   * View departments, roles, employees
 
   * Update employee roles
-  We have used different types of npm packeges
-  *inqurer
+  We have used different types of npm packages
+  *inquirer
   *mysql
   
