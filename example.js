@@ -6,18 +6,6 @@ var questions = [{
 
 }]
 
-// inquirer.prompt(questions).then(function(answers){
-//     console.log(answers);
-// })
-
-// async function myFunction(){
-//     var answers = await inquirer.prompt(questions)
-//     console.log(answers);
-// }
-// myFunction();
-
-
-
 const { prompt } = require("inquirer");
 const logo = require("asciiart-logo");
 const db = require("./db");
